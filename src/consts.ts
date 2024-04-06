@@ -15,20 +15,20 @@ export const WORK: Page = {
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Blog",
-  DESCRIPTION: "Writing on topics I am passionate about.",
+  TITLE: "Novedades",
+  DESCRIPTION: "Aqui se publicaran todos los cambios nuevos del servidor!",
 }
 
 // Projects Page 
 export const PROJECTS: Page = {
   TITLE: "Normativas",
-  DESCRIPTION: "Recent projects I have worked on.",
+  DESCRIPTION: "Todas las normativas de PROXIMORP estaran aqui.",
 }
 
 // Search Page
 export const SEARCH: Page = {
   TITLE: "Buscar",
-  DESCRIPTION: "Search all posts and projects by keyword.",
+  DESCRIPTION: "Filtra y busca lo que necesitas!",
 }
 
 // Links
