@@ -9,13 +9,13 @@ export const SITE: Site = {
 
 // Work Page
 export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+  TITLE: "Nosotros",
+  DESCRIPTION: "Conocenos y unete a nosotros.",
 }
 
 // Blog Page
 export const BLOG: Page = {
-  TITLE: "Novedades",
+  TITLE: "Updates",
   DESCRIPTION: "Aqui se publicaran todos los cambios nuevos del servidor!",
 }
 
@@ -42,7 +42,7 @@ export const LINKS: Links = [
     HREF: "/work", 
   },
   { 
-    TEXT: "Novedades", 
+    TEXT: "Updates", 
     HREF: "/blog", 
   },
   { 
@@ -60,12 +60,6 @@ export const SOCIALS: Socials = [
     HREF: "mailto:contacto@proximorp.com",
   },
   { 
-    NAME: "Github",
-    ICON: "github",
-    TEXT: "cosmind-rusu",
-    HREF: "https://github.com/cosmind-rusu"
-  },
-  { 
     NAME: "LinkedIn",
     ICON: "linkedin",
     TEXT: "PROXIMORP",
@@ -76,6 +70,12 @@ export const SOCIALS: Socials = [
     ICON: "twitter-x",
     TEXT: "PROXIMORP",
     HREF: "https://twitter.com/",
+  },
+  { 
+    NAME: "Github",
+    ICON: "github",
+    TEXT: "cosmind-rusu",
+    HREF: "https://github.com/cosmind-rusu"
   },
 ]
 
