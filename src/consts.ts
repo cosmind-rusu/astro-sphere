@@ -2,9 +2,9 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  TITLE: "PROXIMORP 🌴",
+  DESCRIPTION: "Bienvenido a PROXIMORP🌴",
+  AUTHOR: "Cosmind-rusu",
 }
 
 // Work Page
@@ -21,32 +21,32 @@ export const BLOG: Page = {
 
 // Projects Page 
 export const PROJECTS: Page = {
-  TITLE: "Projects",
+  TITLE: "Normativas",
   DESCRIPTION: "Recent projects I have worked on.",
 }
 
 // Search Page
 export const SEARCH: Page = {
-  TITLE: "Search",
+  TITLE: "Buscar",
   DESCRIPTION: "Search all posts and projects by keyword.",
 }
 
 // Links
 export const LINKS: Links = [
   { 
-    TEXT: "Home", 
+    TEXT: "Inicio", 
     HREF: "/", 
   },
   { 
-    TEXT: "Work", 
+    TEXT: "Nosotros", 
     HREF: "/work", 
   },
   { 
-    TEXT: "Blog", 
+    TEXT: "Novedades", 
     HREF: "/blog", 
   },
   { 
-    TEXT: "Projects", 
+    TEXT: "Normativas", 
     HREF: "/projects", 
   },
 ]
@@ -56,26 +56,26 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    TEXT: "contacto@proximorp.com",
+    HREF: "mailto:contacto@proximorp.com",
   },
   { 
     NAME: "Github",
     ICON: "github",
-    TEXT: "markhorn-dev",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    TEXT: "cosmind-rusu",
+    HREF: "https://github.com/cosmind-rusu"
   },
   { 
     NAME: "LinkedIn",
     ICON: "linkedin",
-    TEXT: "markhorn-dev",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
+    TEXT: "PROXIMORP",
+    HREF: "https://www.linkedin.com/",
   },
   { 
     NAME: "Twitter",
     ICON: "twitter-x",
-    TEXT: "markhorn_dev",
-    HREF: "https://twitter.com/markhorn_dev",
+    TEXT: "PROXIMORP",
+    HREF: "https://twitter.com/",
   },
 ]
 
